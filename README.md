@@ -25,7 +25,7 @@ A sleek and responsive dashboard interface built with React, TypeScript, and Tai
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/modern-dashboard-ui.git
+git clone [https://github.com/yourusername/modern-dashboard-ui.git](https://github.com/azeezolasunkanmi/myxellia-test.git)
 ```
 
 2. Install dependencies:
