@@ -102,7 +102,7 @@ export const Header: React.FC = () => {
             {/* User Profile */}
             <div className="relative group">
               <button
-                className="ml-2"
+                className="ml-2 group-hover:scale-110 transition-transform"
                 onClick={() =>
                   setIsAvatarModalOpen(isAvatarModalOpen => !isAvatarModalOpen)
                 }
